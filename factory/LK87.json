@@ -1,0 +1,9 @@
+{
+	"name": "LK87",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2f5ace6-dd7c-4a4a-a67b-1440a69b539c",
+		"tenantId": "5eb82bd6-7ae8-4c50-b57d-82b9f49923c6"
+	}
+}
